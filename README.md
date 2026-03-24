@@ -79,7 +79,7 @@ Open `http://localhost:3000` in your browser.
 ├── public/
 │   └── index.html    # Frontend — voice UI, chat bubbles, Web Speech API
 ├── package.json
-├── .env.example
+├── example.env
 └── README.md
 ```
 
