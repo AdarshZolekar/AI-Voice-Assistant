@@ -57,8 +57,8 @@ Add the following function tool:
 ### 3. Install and run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/simple-ai-voice-assistant-openai-with-internet
-cd simple-ai-voice-assistant-openai-with-internet
+git clone https://github.com/AdarshZolekar/AI-Voice-Assistant
+cd AI-Voice-Assistant
 
 npm install
 
